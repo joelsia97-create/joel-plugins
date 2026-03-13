@@ -14,6 +14,15 @@
         "name": "Sia Joel"
       },
       "source": "./plugins/notebooklm-learning"
+    },
+    {
+      "name": "agent-builder",
+      "description": "Guides users through building AI Agents from scratch via a 3-phase process: Workflow Discovery, Automation Audit, and Agent Design with Blueprint.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sia Joel"
+      },
+      "source": "./plugins/agent-builder"
     }
   ]
 }
