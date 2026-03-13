@@ -1,0 +1,7 @@
+{
+  "name": "notebooklm-learning",
+  "description": "Build NotebookLM-powered learning notebooks from any topic. Full workflow: concept mapping, notebook creation, YouTube + web research, source loading, dimension-based deep querying, and comprehensive MD/HTML output.",
+  "author": {
+    "name": "Sia Joel"
+  }
+}
