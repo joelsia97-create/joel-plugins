@@ -23,6 +23,15 @@
         "name": "Sia Joel"
       },
       "source": "./plugins/agent-builder"
+    },
+    {
+      "name": "second-brain-learning",
+      "description": "Learn any topic by fetching sources with defuddle, ingesting into the Second Brain wiki, and synthesizing a structured output MD. Fully local — no external notebooks needed.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sia Joel"
+      },
+      "source": "./plugins/second-brain-learning"
     }
   ]
 }

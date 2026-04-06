@@ -1,0 +1,7 @@
+{
+  "name": "second-brain-learning",
+  "description": "Learn any topic by fetching sources with defuddle, ingesting them into the Second Brain wiki, and synthesizing a structured output MD. Fully local — no external notebooks needed.",
+  "author": {
+    "name": "Sia Joel"
+  }
+}
