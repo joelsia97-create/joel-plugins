@@ -259,6 +259,15 @@ updated: {YYYY-MM-DD}
 ### Takeaways
 {3-5 specific, actionable conclusions}
 
+### 💬 Deep Dive Questions
+> 以下问题可以直接复制发给 Claude Code 深入探讨：
+
+1. {Question 1 — directly related to this dimension AND Sia Joel's goal from Step 1}
+2. {Question 2 — asks for a concrete example or step-by-step how-to}
+3. {Question 3 — challenges an assumption or explores an edge case}
+4. {Question 4 — asks how to apply this in one of Joel's specific industry contexts}
+5. {Question 5 — connects this dimension to the next phase of the learning curve}
+
 ---
 
 ## D2: {Dimension 2 Name}
@@ -306,6 +315,18 @@ updated: {YYYY-MM-DD}
 
 {Top 8-12 sources: title + URL + 2-3 sentence description + which dimensions it covers}
 ```
+
+**Deep Dive Questions rules:**
+Each dimension section MUST end with a `### 💬 Deep Dive Questions` block containing exactly 5 questions. Questions must:
+1. Be specific to this dimension (not generic)
+2. Be directly tied to Sia Joel's Goal and Application Context from Step 1
+3. Be immediately usable — copy-paste into Claude Code and get a useful answer
+4. Cover different angles: how-to, example, edge case, industry application, connection to next phase
+5. Be written in the same language Sia Joel used (Chinese/English mix is fine)
+6. NOT repeat content already covered in the section — they should go DEEPER
+
+Bad question: "What is UChat?" (too generic)
+Good question: "我的月子中心 bot 在客户问价格时 AI 直接报了出来，我应该怎么修改 Prompt 来防止这个情况？"
 
 **Writing rules:**
 1. Every specific number, case study, person name, company, date, or process detail from the wiki queries MUST appear in the output. Do not summarize away details.
